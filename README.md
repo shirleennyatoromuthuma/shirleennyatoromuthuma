@@ -60,7 +60,7 @@ I believe that a strong user interface can make all the difference, and I’m co
 An agriculture-focused application currently in development using Visily.
 🔗 View Project on Visily https://app.visily.ai/projects/4ef6ba22-4eb1-4802-9e0d-b1a5c513f37e/boards/1856329
 </p>
-COMING SOON!
+More Projects:COMING SOON!
 
 ### Socials
 
