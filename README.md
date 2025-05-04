@@ -33,7 +33,6 @@ I believe that a strong user interface can make all the difference, and I’m co
 - 🌐 **Responsive Websites** that are inclusive and accessible  
 - 📱 **Progressive Web Apps (PWAs)** with offline-first features  
 - ⚙️ **Single Page Applications (SPAs)** using modern JS frameworks  
-- 🧩 **Agriculture App** *(Currently in progress, check out the prototype [here](https://app.visily.ai/projects/4ef6ba22-4eb1-4802-9e0d-b1a5c513f37e/boards/1856329))
 
 ### Skills
 
