@@ -13,7 +13,7 @@ I believe that a strong user interface can make all the difference, and I’m co
 - 🚀  I'm currently working on [My Agriculture App](https://app.visily.ai/projects/4ef6ba22-4eb1-4802-9e0d-b1a5c513f37e/boards/1856329)  
 - 🧠  I'm learning HTML & Web Development  
 - 🤝  I'm open to collaborating on projects  
-- ⚡  I'm secretly Barbie... ssshhh, don’t tell anyone 💅
+- ⚡  I'm secretly a Barbie... ssshhh, don’t tell anyone 💅
   
   🎯 **Currently Learning**: HTML,
                             **CSS**,
