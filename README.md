@@ -51,8 +51,7 @@ I believe that a strong user interface can make all the difference, and I’m co
   </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-</p>
-
+</p> 
 ---📁 Projects
 <p align="left">
 🎯   <strong>My Agriculture App</strong>
@@ -60,6 +59,7 @@ An agriculture-focused application currently in development using Visily.
 🔗 View Project on Visily https://app.visily.ai/projects/4ef6ba22-4eb1-4802-9e0d-b1a5c513f37e/boards/1856329
 </p>
 More Projects:COMING SOON!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirleennyatoromuthuma&" alt="shirleennyatoromuthuma" /></p>
 
 ### Socials
 
@@ -73,6 +73,6 @@ More Projects:COMING SOON!
   <a href="https://linkedin.com/in/shirleen-muthuma" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/shirleenmuthuma" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" />
-  </a>
+ 
+   ![Visitor Count](https://komarev.com/ghpvc/?username=shirleenva&style=flat&color=blue)
+
