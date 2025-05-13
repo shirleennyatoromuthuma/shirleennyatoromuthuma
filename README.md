@@ -2,11 +2,7 @@
   <h3 align="center"> 💻 Front-End Developer | 🎨 UI/UX Enthusiast | 🌱 ALX Frontend Learner</h3>
 
 ### About Me
-I am a front-end developer who brings designs to life using HTML, CSS, and JavaScript — making sure websites look great and function smoothly. I focus on creating interactive and responsive interfaces that users can easily navigate, ensuring a seamless experience across all devices.
-   <h2>💬 Here's my mission:
-“To design and build digital solutions that support learners facing academic challenges—because every learner deserves a fair shot at success.”</h2>
-I believe that a strong user interface can make all the difference, and I’m committed to improving my development skills to craft solutions that users enjoy interacting with.
-
+I am a front-end developer who brings designs to life using HTML, CSS, and JavaScript — making sure websites look great and function smoothly. I focus on creating interactive and responsive interfaces that users can easily navigate, ensuring a seamless experience across all devices
 - 🌍  I'm based in Kenya  
 - 🖥️  See my portfolio at [My Portfolio](https://shirleenmuthuma.portwol.com/)  
 - ✉️  Contact me at [shirleenmuthush123@gmail.com](mailto:shirleenmuthush123@gmail.com)   
